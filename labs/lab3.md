@@ -98,3 +98,7 @@ Another command that is also very useful is `tree`. This program allows you to l
 5. Use `tree` to list all the files in your home directory including their file size and in human readable format.
 
 > **Take a screenshot of the terminal only. Your screenshot must show all the commands that you used to answer questions 1,2,4 and 5.**
+
+![Question 5 answer](../images/lab3-question-5-part1.png)
+![Question 5 answer](../images/lab3-question-5-part2.png)
+![Question 5 answer](../images/lab3-question-5-part3.png)
