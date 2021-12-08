@@ -81,7 +81,7 @@ Utilities like `ls` are a bit old and many developers are starting to write repl
 
 > exa is an improved file lister with more features and better defaults. It uses colours to distinguish file types and metadata. It knows about symlinks, extended attributes, and Git. And it’s small, fast, and just one single binary.
 
-Unfortunately, exa is not available via the default reposorities in Ubuntu 20.04. However, this package is available for Ubuntu 20.10 and further releases. This however, does not mean that we cannot install the program. As you saw during the presentation, we can also install software using `.deb files.` To download the `.deb file` for `exa` use this command:
+Unfortunately, exa is not available via the default repositories in Ubuntu 20.04. However, this package is available for Ubuntu 20.10 and further releases. This however, does not mean that we cannot install the program. As you saw during the presentation, we can also install software using `.deb files.` To download the `.deb file` for `exa` use this command:
 
 * `wget http://archive.ubuntu.com/ubuntu/pool/universe/r/rust-exa/exa_0.9.0-4_amd64.deb`
 * To install the .deb file we can use apt: `sudo apt install ./exa_0.9.0-4_amd64.deb`
