@@ -16,7 +16,7 @@ Assignment description [Lab 3 - Instructions](https://raw.githubusercontent.com/
 3.2 What dependencies are needed in order to install the package? (you can either take a screenshot of the terminal or copy and paste from the terminal)
 3.3 How much disk space will the package utilize after installation?
  
-![Question 1 answer](../images/lab3-question-1-sub-3.png)
+![Question 1 answer](../images//lab3-imgs/lab3-question-1-sub-3.png)
 
 ## Question 2 | The pwd and cd command
 * **pwd**: Print the full filename of the current working directory.
@@ -31,7 +31,7 @@ Assignment description [Lab 3 - Instructions](https://raw.githubusercontent.com/
 5. Change your present working directory to `/etc/firefox/pref`
 > **Take a screenshot of the terminal only. Your screenshot must show all the commands that you used to answer questions 1-5.**
 > 
-![Question 2 sub 1 answer](../images/lab3-question-2-sub-1.png)
+![Question 2 sub 1 answer](../images/lab3-imgs/lab3-question-2-sub-1.png)
 
 ### Using pwd and cd with a relative path (remember to use the bash autocompletion feature)
 6. Clear your terminal window. Change the working directory to *YOUR* home directory.
@@ -42,7 +42,7 @@ Assignment description [Lab 3 - Instructions](https://raw.githubusercontent.com/
 
 > **Take a screenshot of the terminal only. Your screenshot must show all the commands that you used to answer questions 6-10.**
 
-![Question 2 sub 2 answer](../images/lab3-question-2-sub-2.png)
+![Question 2 sub 2 answer](../images/lab3-imgs/lab3-question-2-sub-2.png)
 
 ## Question 3 | The ls command
 * For this question we are going to use relative path only.
@@ -59,7 +59,7 @@ Assignment description [Lab 3 - Instructions](https://raw.githubusercontent.com/
 
 > **Take a screenshot of the terminal only. Your screenshot must show all the commands that you used to answer questions 1-5.**
 
-![Question 3 answer](../images/lab3-question-3.png)
+![Question 3 answer](../images/lab3-imgs/lab3-question-3.png)
 
 ## Question 4 | The tree command
 * For this question we are going to use Absolute path only.
@@ -72,9 +72,9 @@ Assignment description [Lab 3 - Instructions](https://raw.githubusercontent.com/
 
 > **Take a screenshot of the terminal only. Your screenshot must show all the commands that you used to answer questions 1-5.**
 
-![Question 4 answer](../images/lab3-question-4-part1.png)
-![Question 4 answer](../images/lab3-question-4-part2.png)
-![Question 4 answer](../images/lab3-question-4-part3.png)
+![Question 4 answer](../images/lab3-imgs/lab3-question-4-part1.png)
+![Question 4 answer](../images/lab3-imgs/lab3-question-4-part2.png)
+![Question 4 answer](../images/lab3-imgs/lab3-question-4-part3.png)
 
 ## Question 5 | Bringing it all together
 Utilities like `ls` are a bit old and many developers are starting to write replacements for these tools. One example, is the program `exa`. As per the project's website:
@@ -99,6 +99,6 @@ Another command that is also very useful is `tree`. This program allows you to l
 
 > **Take a screenshot of the terminal only. Your screenshot must show all the commands that you used to answer questions 1,2,4 and 5.**
 
-![Question 5 answer](../images/lab3-question-5-part1.png)
-![Question 5 answer](../images/lab3-question-5-part2.png)
-![Question 5 answer](../images/lab3-question-5-part3.png)
+![Question 5 answer](../images/lab3-imgs/lab3-question-5-part1.png)
+![Question 5 answer](../images/lab3-imgs/lab3-question-5-part2.png)
+![Question 5 answer](../images/lab3-imgs/lab3-question-5-part3.png)
