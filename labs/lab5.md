@@ -25,5 +25,5 @@
 ### Question 5
 ![image5.1-2](../images/lab5-imgs/lab5-question-5-sub-1t&2.png)
 ![image5.3](../images/lab5-imgs/lab5-question-5-sub-3.png)
-![iamge5.4-5](../images/lab5-imgs/lab5-question-5-sub-4&5.png)
+![image5.4-5](../images/lab5-imgs/lab5-question-5-sub-4&5.png)
 ![image5.1-5](../images/lab5-imgs/lab5-question-5-sub-1to5-cat.png)
