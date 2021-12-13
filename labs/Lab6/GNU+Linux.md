@@ -13,7 +13,7 @@
 * **Microsoft Windows** is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. 
 ![Microsoft Windows](https://bit.ly/3pSG6ck)
 * **macOS** is a series of proprietary graphical operating systems developed and marketed by Apple Inc.
-![MacOs](https://bit.ly/3rZF40B)
+![MacOs](https://bit.ly/3oN6XqM)
 * **FreeBSD** is a free and open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD), which was based on Research Unix.
 ![FreeBSD](https://bit.ly/3pPhdhy)
 * **RISC OS** is a computer operating system originally designed by Acorn Computers Ltd in Cambridge, England.
